@@ -11,7 +11,7 @@ This is the [Jittor AI Competition](https://www.educoder.net/competitions/index/
 * By running `python CGAN.py` to train the model, and the following results will be obtained.
 
 <p align="center">
-    <img src="/home/baihy/comptition/jittor-aae/result.png" width="500",height="500">
+    <img src="https://github.com/haiyangBai/jittor-nju_coder-jittor_Gan/blob/master/result.png" width="500",height="500">
 </p>
 
 
